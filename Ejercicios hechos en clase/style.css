@@ -1,0 +1,28 @@
+body{
+	background-color: black;
+}
+#header{
+	text-align: center;
+	
+}
+h1{
+	font-size: 30px;
+	background: black;
+	font-family: 'times new roman', sans-serif;
+	color: white;
+}
+p{
+	color: white;
+}
+#section1{
+	background-color: black;
+	margin: 20px;
+	color: white;
+	font-family: 'Times New Roman', Times, serif;
+}
+#ghost{
+	width: 300px
+}
+#portada{
+	width: 300px
+}
